@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Helen!
-- 👀 Some of my hobbies include web3, startup culture, music and fashion. 
+- 👀 Some of my interests include social entrepreneurship, web3, startup culture, music and fashion. 
 - 🌱 I’m currently learning and constantly improving on Python, R, HTML/CSS, JavaScript.
-- 📫 Reach me on LI or TW (link in bio). 
+- 📫 Reach me on LI (link in bio).
